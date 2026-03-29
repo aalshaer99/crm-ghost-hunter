@@ -1,5 +1,5 @@
 # CRM Ghost-Hunter 
-**High-Fidelity Revenue Operations & Data Decay Engine**
+**Python-Based CRM Data Integrity & ROI Optimizer**
 
 ###  The Real-World Delta
 B2B CRM data is notoriously unreliable. Most organizations suffer from "Data Debt," paying for thousands of "Ghost Leads" who have moved companies or lost budget authority. This tool provides a Technical Audit of CRM health—moving beyond simple cleaning into Predictive Revenue Recovery.**
